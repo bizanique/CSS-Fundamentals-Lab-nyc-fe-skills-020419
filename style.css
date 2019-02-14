@@ -5,8 +5,5 @@ body {
   height: 100%;
   margin: 0;
 }
-<nav> 
-<a padding: 10px;</a>
-
-<a> 
+nav { padding: 10px; background: grey;}
 
